@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorldProject/1.0.0": {
+        "dependencies": {
+          "Ccore": "1.0.0"
+        },
+        "runtime": {
+          "WorldProject.dll": {}
+        }
+      },
+      "Ccore/1.0.0": {
+        "runtime": {
+          "Ccore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorldProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ccore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
